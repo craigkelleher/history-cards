@@ -2,17 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Enable the Draw Cards button for the game
 public class drawCards : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject Card1;
+    public GameObject Card2;
+    public GameObject EnemyArea;
+    public GameObject PlayerArea;
+
     void Start()
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnClick()
     {
-        
+        GameObject playerCard = Instantiate(Card1, new Vector3);
     }
+
 }

@@ -716,7 +716,7 @@ PrefabInstance:
     - target: {fileID: 7826880016663935619, guid: 060c0694ad1ed5446b4a829ac2b935b1,
         type: 3}
       propertyPath: m_Name
-      value: Card (1)
+      value: Card 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 060c0694ad1ed5446b4a829ac2b935b1, type: 3}
@@ -1207,7 +1207,7 @@ PrefabInstance:
     - target: {fileID: 7370357311927504022, guid: bba4b81502e622d48bc3e1cbe7a107fe,
         type: 3}
       propertyPath: m_Name
-      value: Card
+      value: Card 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bba4b81502e622d48bc3e1cbe7a107fe, type: 3}
