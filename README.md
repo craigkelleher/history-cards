@@ -1,8 +1,6 @@
 # CS-467-OCTG-Project
 Repository for CS 467 OCTG Project
 
-Introduction:
-
 Our team aims to create a trading card game for an classroom education experience akin to
 Hearthstone and Magic The Gathering. Our goal is to have a game that captures the
 excitement and fun of a typical TCG game with elements to aid in the learning process for a
