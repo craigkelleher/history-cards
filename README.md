@@ -2,11 +2,13 @@
 Repository for CS 467 OCTG Project
 
 Introduction:
+
 Our team aims to create a trading card game for an classroom education experience akin to
 Hearthstone and Magic The Gathering. Our goal is to have a game that captures the
 excitement and fun of a typical TCG game with elements to aid in the learning process for a
 specific discipline while having fun. We will be doing this by utilizing the Unity game engine
 and scripting in C#.
+
 At project completion, students will be able to play with each other in a classroom tournament, allowing
 them to earn points and coins, which they can spend acquiring more cards. The aim is to gamify
 the classroom, hopefully engaging students more strongly in their education.
