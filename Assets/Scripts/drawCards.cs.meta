@@ -3,7 +3,14 @@ guid: d477b41cdf308ba4da42df408cc54151
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Card1: {fileID: 3314590058213679233, guid: 121075f2366f4b74997eed059cdc5529, type: 3}
+  - Card2: {fileID: 2799727963371094289, guid: 3cdb292d8fa1fa2479c8c4b8b4c2da21, type: 3}
+  - OpponantArea: {fileID: 5994463135270206744, guid: 45a8e26ce73e7b246bd27e58d2c65928,
+      type: 3}
+  - PlayerArea: {fileID: 3072519670856423721, guid: a4ef41afafa9f25449ce95af0c1f7b64,
+      type: 3}
+  - spriteInserter: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
