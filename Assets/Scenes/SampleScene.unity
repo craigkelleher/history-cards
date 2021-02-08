@@ -451,9 +451,9 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1950551724}
+  - {fileID: 1942845783}
   - {fileID: 649436940}
   - {fileID: 1509176444}
-  - {fileID: 1942845783}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -495,7 +495,7 @@ RectTransform:
   m_Children:
   - {fileID: 1297080485}
   m_Father: {fileID: 1555270895}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -607,8 +607,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Card1: {fileID: 3314590058213679233, guid: 121075f2366f4b74997eed059cdc5529, type: 3}
   Card2: {fileID: 2799727963371094289, guid: 3cdb292d8fa1fa2479c8c4b8b4c2da21, type: 3}
-  EnemyArea: {fileID: 4737228014269329099}
+  OpponantArea: {fileID: 4737228014269329099}
   PlayerArea: {fileID: 3680965633691133743}
+  cardArt:
+  - {fileID: 21300000, guid: 2204fba6a659f63469a50fd6ce505428, type: 3}
+  - {fileID: 21300000, guid: 67101bbead6d6d74da71d52e2db5d365, type: 3}
+  - {fileID: 21300000, guid: 22f5a3709174c3346b07259affeb70d6, type: 3}
+  - {fileID: 21300000, guid: 32ff5eb166a155a41ae3dde6ae5625e3, type: 3}
+  - {fileID: 21300000, guid: 151fe5191be50924eb2f2a654937db6c, type: 3}
+  - {fileID: 21300000, guid: 5f288d72524234345b41c71a175e47e7, type: 3}
+  - {fileID: 21300000, guid: fd0020c45bc45de42b4f3ea521b50c51, type: 3}
+  - {fileID: 21300000, guid: a22cb17b1c519b546bcd720f561bf401, type: 3}
+  - {fileID: 21300000, guid: dc5571e88e3df8d4b9dba8ff7a4739fa, type: 3}
+  - {fileID: 21300000, guid: bbea0d5e5e5a65b4eb5d76a32f6421a7, type: 3}
+  spriteInserter: {fileID: 0}
 --- !u!224 &1950551724 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1709186405792513344, guid: 5b66e81697d3ce34ab1f500b5d5b2919,
@@ -635,7 +647,7 @@ PrefabInstance:
     - target: {fileID: 1709186405792513344, guid: 5b66e81697d3ce34ab1f500b5d5b2919,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1709186405792513344, guid: 5b66e81697d3ce34ab1f500b5d5b2919,
         type: 3}
