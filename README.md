@@ -3,6 +3,8 @@ Repository for Online Trading Card Game: History Cards!
  Designed by Craig Kelleher and Jonathan Nguyen
  Recent WebGL build URL: https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
 
+<img src="Assets/Intro.gif" alt="Gameplay" width="800" height="450">
+
 This project is an online trading card game created withh an education purpose. In gamifing the classroom, we hope to further engage students' interest in learning. To that end, the chosen subject of this game is theh Sengoku period of Japanese History, a tumultuous periuod of political upheaval and strife. 
 
 The game itself is an online browser-based game, heavily inspired by Magic: The Gathering and Hearthstone.
