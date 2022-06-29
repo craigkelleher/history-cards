@@ -1,7 +1,7 @@
 <h3 align="center"> Online Card Game: </h3>
  <p align="center"> History Cards! <br />
 
-WebGL build URL: 
+WebGL build URL: (Play the game now!)
 
 https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
 
