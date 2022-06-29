@@ -72,10 +72,33 @@ This section explains briefly how to play the game
 ### Deck Management
 
 <img src="Assets/DeckManagement1.gif" alt="Gameplay" width="800" height="450">
- 
+
+## DECKS
+
+* The deck editor allows the user to create, edit, and save up to 3 custom decks. 
+* There is a blue bar that displays the current average energy cost of the cards in the deck.
+* If you click on a card, columns of available cards will show on the left that you can choose to replace the first card with.
+* Reclicking the card closes the inventory.
+* Note that you can buy more cards in the collection window to add to your deck.
+
+## COLLECTIONS
+* The collection viewer allows the user to view all the cards in the game and allows the user to purchase cards using points that are gained by winning games and starting with a few hundred in a new gaming session.
+* The top panel has a text box listing the current page in the collection. 
+* The center panel contains card slots displaying each card in the game, in order of ID number. 
+* Hovering over a card opens up a tooltip text box, showing the card’s description. The collection also has a text box displaying the user’s current point total.
+* For unowned cards, there is a banner button on the card. This button indicates to the user that the card is unowned and lists the price of the card, which depends on the card’s rarity.
+
 ### Gameplay
 
 <img src="Assets/Gameplay2.gif" alt="Gameplay" width="800" height="450">
+ 
+* The user plays the game against an AI in play mode. 
+* In Play, The screen consists of the game board, your base's health, the player’s hand, a redraw button, an end turn button, and a quit button.
+* The player’s hand is at the bottom of the screen. To play cards, the player drags cards to their respective zones.
+* Creature cards are dragged into the middle section, representing the battlefield.
+* Spell cards are dragged into the section labeled Spell Cards. All cards have a respective energy cost.
+* Next to the player’s hand are additional control buttons for the user. The redraw button is a mulligan feature which draws a new hand from the user’s deck by expending two energy. 
+* The game ends when one player’s health is reduced to 0. If the user is the winner, the user gains 50 points.
  
 <!-- Quality Attributes -->
 ## Quality Attributes
@@ -84,14 +107,7 @@ This section explains briefly how to play the game
 2. **Testability** – Especially in the early days of this project’s development, we worked to ensure that features were easily testable and also thoroughly tested before being delivered to clients.
 3. **Learnability** – We desire to have intuitive features and ease of navigation to increase customer retention. The site should be relatively simple to navigate, easily learned, and visual cues are to be plentiful. 
 
-<!-- ARCHITECTURE -->
-## Architecture and Design
- 
-<!-- DESIGN PATTERNS -->
-## Design Patterns
- 
 <!-- FINAL STATE OF SOFTWARE -->
-## Final State of Software
  
 ### Known Bugs and Issues
  
