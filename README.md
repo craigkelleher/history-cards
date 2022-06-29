@@ -71,9 +71,11 @@ Go to https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
 This section explains briefly how to play the game
 ### Deck Management
 
+<img src="Assets/DeckManagement1.gif" alt="Gameplay" width="800" height="450">
  
 ### Gameplay
- 
+
+<img src="Assets/Gameplay2.gif" alt="Gameplay" width="800" height="450">
  
 <!-- Quality Attributes -->
 ## Quality Attributes
@@ -99,5 +101,3 @@ This section explains briefly how to play the game
  
 * As a user I can click a tutorial and see graphically what to do in the game.
 * As a user I can play against another human person
-
-<img src="Assets/Gameplay2.gif" alt="Gameplay" width="800" height="450">
