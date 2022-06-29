@@ -1,5 +1,18 @@
-# CS-467-OCTG-Project
-Repository for CS 467 OCTG Project
+# Online Trading Card Game
+Repository for Online Trading Card Game: History Cards!
+ Designed by Craig Kelleher and Jonathan Nguyen
+ Recent WebGL build URL: https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
+
+This project is an online trading card game created withh an education purpose. In gamifing the classroom, we hope to further engage students' interest in learning. To that end, the chosen subject of this game is theh Sengoku period of Japanese History, a tumultuous periuod of political upheaval and strife. 
+
+The game itself is an online browser-based game, heavily inspired by Magic: The Gathering and Hearthstone.
+
+It is a single player card game, played against an A.I. opponent. In addition to play mode, the project also contains a deck editor, collection viewer, and inventory system.
+The deck editor allows the player to edit and save their decks for future usage. The collection viewer allows the player to view every card in the game and which cards they currently own. The inventory system allows the user to buy cards using points, which are earned by winning games. These cards can then be saved into decks and used in play mode.
+
+As a software project, this game serves as a months-long exploration of the Unity game engine. It required the team to learn the engine from the ground up. This involved learning Unity’s iterative visual workflow, scene management, C# scripting, asset creation and management, project collaboration, and deploying a build. The process was challenging and the amount of information to learn daunting. But the team persevered and created a project in which we can take pride.
+
+<img src="assets/Gameplay2.gif" alt="Gameplay">
 
 Our team aims to create a trading card game for an classroom education experience akin to
 Hearthstone and Magic The Gathering. Our goal is to have a game that captures the
