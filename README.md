@@ -1,4 +1,4 @@
-<h3 align="center"> Online Card Game: </h3>
+<h3 align="center"> Online Collecting Card Game: </h3>
  <p align="center"> History Cards! <br />
 
 WebGL build URL: (Play the game now!)
@@ -26,7 +26,7 @@ https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  
-This project is an online trading card game created with an education purpose. The chosen subject of this game is the Sengoku period of Japanese history, a tumultuous periuod of political upheaval and strife. 
+This project is an online collecting card game created with an education purpose. The chosen subject of this game is the Sengoku period of Japanese history, a tumultuous periuod of political upheaval and strife. 
 
 As a software project, this game serves as a months-long exploration of the Unity game engine. It required my partner and I to learn the engine from the ground up. This involved learning Unity’s iterative visual workflow, scene management, C# scripting, asset creation and management, project collaboration, and deploying a build.
 
