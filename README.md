@@ -12,7 +12,7 @@ The deck editor allows the player to edit and save their decks for future usage.
 
 As a software project, this game serves as a months-long exploration of the Unity game engine. It required the team to learn the engine from the ground up. This involved learning Unity’s iterative visual workflow, scene management, C# scripting, asset creation and management, project collaboration, and deploying a build. The process was challenging and the amount of information to learn daunting. But the team persevered and created a project in which we can take pride.
 
-<img src="assets/Gameplay2.gif" alt="Gameplay">
+<img src="assets/Gameplay2.gif" alt="Gameplay" width="900" height="800">
 
 Our team aims to create a trading card game for an classroom education experience akin to
 Hearthstone and Magic The Gathering. Our goal is to have a game that captures the
