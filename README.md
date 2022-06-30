@@ -50,8 +50,6 @@ As a software project, this game serves as a months-long exploration of the Unit
 * C# for coding
 * Unity takes C# and will compile it to run on a web plugin
 * Python/MySQL for Database back-end
-Estimated Minimum Requirements to Run Finished Game1:
-* Updated Google Chrome or Microsoft Edge
 
 ### Sources
  
