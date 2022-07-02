@@ -53,7 +53,7 @@ As a software project, this game serves as a months-long exploration of the Unit
 
 ### Sources
  
-* Using unity, we will use public domain images, fan-made art, and the unity art
+* Using unity, I will use public domain images, fan-made art, and the unity art
 package for trading card games and will be referencing each source. 
 * DOTween (UnityAssetStore) to animate actions
 * Card Design pack (UnityAssetStore)
