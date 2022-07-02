@@ -28,7 +28,7 @@ https://developer.cloud.unity3d.com/webgl/webgl.html?shareId=bJtPSJAaBd
  
 This project is an online collecting card game created with an education purpose. The chosen subject of this game is the Sengoku period of Japanese history, a tumultuous periuod of political upheaval and strife. 
 
-As a software project, this game serves as a months-long exploration of the Unity game engine. It required my partner and I to learn the engine from the ground up. This involved learning Unity’s iterative visual workflow, scene management, C# scripting, asset creation and management, project collaboration, and deploying a build.
+As a software project, this game serves as a months-long exploration of the Unity game engine. It required me to learn the Unity engine from the ground up. This involved learning Unity’s iterative visual workflow, scene management, C# scripting, asset creation and management, project collaboration, and deploying a build, of which I had no experience in prior.
 
 ### Overview
 * The game itself is an online browser-based game, heavily inspired by Magic: The Gathering and Hearthstone.
@@ -101,9 +101,9 @@ This section explains briefly how to play the game
 <!-- Quality Attributes -->
 ## Quality Attributes
  
-1. **Reliability** – For our team it is more important that features work predictably and reliably for our customers, so we started with a limited number of core features to make sure they were done right. In our testing of its reliability, our goal was to ensure for example if a user invoked a feature 10 times, that it would succeed 100% of the time.
-2. **Testability** – Especially in the early days of this project’s development, we worked to ensure that features were easily testable and also thoroughly tested before being delivered to clients.
-3. **Learnability** – We desire to have intuitive features and ease of navigation to increase customer retention. The site should be relatively simple to navigate, easily learned, and visual cues are to be plentiful. 
+1. **Reliability** – It is more important that features work predictably and reliably for the user, so I started with a limited number of core features to make sure they were done right. In testing of its reliability, the goal was to ensure for example if a user invoked a feature 10 times, that it would succeed 100% of the time.
+2. **Testability** – Especially in the early days of this project’s development, I worked to ensure that features were easily testable and also thoroughly tested before being deployed.
+3. **Learnability** – I desire to have intuitive features and ease of navigation to increase user retention.
 
 <!-- FINAL STATE OF SOFTWARE -->
  
